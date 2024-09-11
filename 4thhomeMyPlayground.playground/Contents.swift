@@ -4,7 +4,7 @@ import UIKit
  // список через case
  }
 */
-
+// some tasks
 enum TravelClass {
     case First, Buiseness, Economy
 }
